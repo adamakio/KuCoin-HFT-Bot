@@ -1,0 +1,9 @@
+# Cache
+__pycache__
+
+# Build folders
+**/build/
+
+# Folders created at runtime
+**/Runs/
+**/Users/
