@@ -11,18 +11,18 @@ Welcome to the Kucoin Simple Bot repository, a high-frequency grid trading bot d
 
 ## Directory Structure
 .
-├── README.md
-├── SimpleBot.py
-├── Task.py
-├── User.py
-├── ascii_atprofit.txt
-├── english_text.py
-├── executable.py
-├── exec_eng/
-├── exec_esp/
-├── pyinstaller_commands.py
-├── spanish_text.py
-└── working_exec/
+├── README.md  
+├── SimpleBot.py  
+├── Task.py  
+├── User.py  
+├── ascii_atprofit.txt  
+├── english_text.py  
+├── executable.py  
+├── exec_eng/  
+├── exec_esp/  
+├── pyinstaller_commands.py  
+├── spanish_text.py  
+└── working_exec/  
 
 - `SimpleBot.py`: The core bot logic and operations.
 - `User.py`: Handles user profile creation, selection, and deletion.
