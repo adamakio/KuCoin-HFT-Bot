@@ -33,8 +33,9 @@ Welcome to the Kucoin Simple Bot repository, a high-frequency grid trading bot d
 
 ## Usage
 To start using the Kucoin Simple Bot:
-- On Windows, navigate to either the `exec_eng/` or `exec_esp/` directory and run the executable that matches your operating system and language preference.
-- On MacOS, you must first create the executable by running `executable.py`
+- On Windows, navigate to either the `exec_eng/` or `exec_esp/` directory and run the executable
+- On MacOS, you must first create the executable by running `executable.py` to overwrite the Windows executable
+
 ## Contributions
 Contributions to the Kucoin Simple Bot are welcome. Please ensure that you update tests as appropriate and adhere to the existing coding style.
 
