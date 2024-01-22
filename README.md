@@ -10,7 +10,7 @@ Welcome to the Kucoin Simple Bot repository, a high-frequency grid trading bot d
 - **Executables**: The bot is compiled into executables for macOS and Windows, ensuring ease of use across platforms without the need for a Python environment.
 
 ## Directory Structure
-.
+.  
 ├── README.md  
 ├── SimpleBot.py  
 ├── Task.py  
